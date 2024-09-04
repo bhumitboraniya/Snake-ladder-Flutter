@@ -22,9 +22,10 @@ This is a Flutter application for the classic game "Snakes and Ladders." The gam
 ## Installation
 
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/snakes-and-ladders-flutter.git
+```bash
+git clone https://github.com/yourusername/snakes-and-ladders-flutter.git
 
+```
 Navigate into the project directory:
 ```
 cd snakes-and-ladders-flutter
@@ -37,7 +38,6 @@ Run the app:
 ```
 flutter run
 ```
-
 ## lib/</br>
 main.dart: Entry point of the application. </br>
 AdminScreen.dart: Screen for admin mode.</br>
