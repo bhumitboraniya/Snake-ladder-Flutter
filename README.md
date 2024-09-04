@@ -38,13 +38,13 @@ Run the app:
 flutter run
 ```
 
-lib/
-main.dart: Entry point of the application.
-AdminScreen.dart: Screen for admin mode.
-PlayerScreen.dart: Screen for player mode.
-BoardWidget.dart: Widget to display the game board.
-ManageSnakesLaddersScreen.dart: Screen for managing snakes and ladders.
-SnakesAndLaddersModel.dart: State management model for snakes and ladders.
+## lib/</br>
+main.dart: Entry point of the application. </br>
+AdminScreen.dart: Screen for admin mode.</br>
+PlayerScreen.dart: Screen for player mode.</br>
+BoardWidget.dart: Widget to display the game board.</br>
+ManageSnakesLaddersScreen.dart: Screen for managing snakes and ladders.</br>
+SnakesAndLaddersModel.dart: State management model for snakes and ladders.</br>
 
 
 Dependencies
