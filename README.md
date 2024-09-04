@@ -1,5 +1,5 @@
 # Snakes and Ladders Flutter App
-<img src="https://github.com/user-attachments/assets/a243c16b-684a-47d9-a23f-470bf623f2b3" alt="Description of Image" width="600" height="400">
+<img src="https://github.com/user-attachments/assets/a243c16b-684a-47d9-a23f-470bf623f2b3" alt="Description of Image" width="500" height="1000">
 ![WhatsApp Image 2024-09-05 at 00 11 53_52e6b81d](https://github.com/user-attachments/assets/22a9f305-b95d-41f1-8404-65dac4f739b6)
 ![WhatsApp Image 2024-09-05 at 00 11 51_254f7ce0](https://github.com/user-attachments/assets/436f3d76-6a7b-4411-96d4-522476ccbe4c)
 ![WhatsApp Image 2024-09-05 at 00 11 49_0a521a17](https://github.com/user-attachments/assets/b38ee5d9-de22-4958-93da-dd4c7d69915f)
