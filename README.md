@@ -76,7 +76,7 @@ provider: State management package used for managing game state.
 3. Add, update, or delete snakes and ladders as needed.
 
 ## Contributing
-Fork the repository.
-Create a new branch for your changes.
-Make your changes and test them.
-Submit a pull request.
+1.Fork the repository.</br>
+2.Create a new branch for your changes.</br>
+3.Make your changes and test them.</br>
+4.Submit a pull request.</br>
